@@ -1,6 +1,3 @@
-{- DO NOT CHANGE MODULE NAME, if you do, the file will not load properly -}
-module CourseworkRev where
-
 import qualified Data.Set as HS (fromList, toList)
 import Test.QuickCheck
 
